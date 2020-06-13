@@ -1,0 +1,18 @@
+Lines 2 - 4 do not have the # for a comment to be indicated
+Line 6 change toUpper() to uppper()
+Line 7 when compareing something you do == not = and instead of [0] it is [1]
+Line 8 meter = float(input(
+Line 10 and 11 to_i should just be int
+Line 11 should also have round() as the outside and also f - feet
+Line 12 the print statement needs () 
+Line 13 needs : at the end of the if statement and == for comparisons
+Line 14 the print statement needs () and delete the ; convert the feet to string str(feet)
+Line 15 needs a :
+Line 16 the print statement needs () and convert to string doing str(feet)
+Line 17 get rid of the end statement
+Line 18 needs == not one =
+Line 19 convert inches to string str(inches)
+Line 20 else if needs to change to elif and inches > 1
+Line 21 convert to string so str(inches)
+Line 23 needs () for a print statement 
+Line 25 change toUpper to upper()
